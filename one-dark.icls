@@ -579,6 +579,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+        <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="2c323c" />
+        <option name="BACKGROUND" value="5c6370" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="9da5b4" />
+        <option name="BACKGROUND" value="4b5363" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="828997" />
+        <option name="BACKGROUND" value="5c6370" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -778,6 +796,8 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="be5046" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
