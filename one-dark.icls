@@ -1,9 +1,9 @@
 <scheme name="one-dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-10-13T17:01:47</property>
+    <property name="created">2019-10-17T21:09:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-13T17:02:02</property>
+    <property name="modified">2019-10-17T21:09:38</property>
     <property name="originalScheme">one-dark</property>
   </metaInfo>
   <colors>
@@ -26,7 +26,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="3e4451" />
     <option name="SELECTED_INDENT_GUIDE" value="9da5b4" />
     <option name="SELECTED_TEARLINE_COLOR" value="abb2bf" />
-    <option name="SELECTION_BACKGROUND" value="2c323c" />
+    <option name="SELECTION_BACKGROUND" value="282c34" />
+    <option name="SELECTION_FOREGROUND" value="e5c07b" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="ScrollBar.hoverThumbColor" value="2c323c59" />
     <option name="ScrollBar.thumbColor" value="282c3447" />
